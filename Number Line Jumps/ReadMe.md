@@ -58,7 +58,7 @@ A single line of four space-separated integers denoting the respective values of
 
 The two kangaroos jump through the following sequence of locations:
 
-<img width=100% src="https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png"/>
+<img width=100% src="https://i0.wp.com/studyalgorithms.com/wp-content/uploads/2021/03/Screenshot-2021-03-15-004349.png?resize=768%2C248&ssl=1"/>
 
 From the image, it is clear that the kangaroos meet at the same location (number **12** on the number line) after same number of jumps (**4** jumps), and we print YES.
 
